@@ -1,0 +1,4 @@
+python io_single_generator audio
+python io_single_generator video
+python io_single_generator audio_noisy
+python io_combined_generator

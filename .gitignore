@@ -1,0 +1,9 @@
+# dataset folder
+data
+*.npy
+
+# python module caches
+__pycache__
+
+# tensorflow logs directory
+logs
